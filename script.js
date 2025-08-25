@@ -9,5 +9,5 @@ btn.addEventListener('click', () => {
 const btn2 = document.getElementById('btn2');
 const msg2 = document.getElementById('msg2');
 btn2.addEventListener('click', () => {
-    msg.textContent = "The second button also works!";
+    msg2.textContent = "The second button also works!";
 });
